@@ -16,10 +16,9 @@ url: "https://penyadap.github.io" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 permalink: /:title/
 
-name: 'Your Name'
+name: 'penyadap.github.io'
 bio: >
-  Mea suas vituperatoribus et, virtute corpora quaestio cum ut.
-  Ne solet nostrum complectitur pri, vis ut inani populo.
+  Ulasan tentang ponsel iphone, android dan berbagai tips lain seperti rooting, penyadap, lacak, juga berbagai info menarik tentang dunia teknologi.
 author_image: "/assets/images/author.jpg"
 twitter_username: jekyllrb
 github_username:  jekyll
