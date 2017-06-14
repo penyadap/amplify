@@ -20,47 +20,58 @@ dan app ini memiliki fitur sadap yang lumayan seperti pesan sms, mms, panggilan 
 dan masih banyak lainnya.
 
 
-2. FlexiSpy
+## 2. FlexiSpy
+
 Penyadapan ponsel dengan menggunakan app flexispy sangat saya sarankan karna bisa digunakan pada ponsel berikut : iPhone, Android, Blackberry & Nokia. lengkap kan?
 untuk nokia flexispy hanya tersedia untuk nokia buatan lawan seperti symbian untuk nokia sekarang buatan windows tidak tersedia untuk melakukan penyadapan.
 tidak hanya ketersediaan pada ponsel yang dapat digunakan tapi memiliki fitur terlengkap dari semua software penyadap yang saya buat di thread ini.
 
 
-3. MSPY
+## 3. MSPY
+
 Fitur penyadap yang dimiliki mspy hampir - hampir sama dengan app bagian ke 1, tetap fungsi yang utama untuk memulai memonitoring setiap kegiatan pada handphone
 iPhone & Android target, 
 
-4. iKeymonitor
+## 4. iKeymonitor
+
 Dengan menggunakan perangkat sadap dari iKeyMonitor yang akan memantua kegiatan pada smartphone iphone dia, ikey hanya menyediakan ponsel penyadapan untuk iphone
 dan jenis ponsel lainnya buatan apple seperti iPad, iWatch intinya setiap perangkat yang berjalan pada operasi sistem iOS mobile.
 
 
-5. Auto-Forward
+## 5. Auto-Forward
+
 Perangkat sadap buatan paman sam ini memiliki daftar fitur yang lumayan untuk dapat mengawasi ponsel orang terdekat yang memiliki fitur standar yang dapat digunakan
 pada perangkat iPhone, Android dan Blackberry tidak ada dukungan untuk ponsel nokia.
 
-6. SPYERA
+## 6. SPYERA
+
 Software sadap spyera ini mungkin satu -satunya yang bisa digunakan untuk menyadap data komputer, tida hanya bisa mengambil data pada perangkat dekstop saja spyera
+
 memiliki ketersediaan pada perangkat berbasis mobile seperti blackberry iphone android juga nokia, spyera memiliki fitur yang lengkap dari fitur unggulannya seperti
+
 perekam suara panggilan secara live dari ponsel target. jadi kamu dapat mendengarkan percakapan telpon yang sedang berlangsung dan mendengarkan apa saja sudah di
+
 bicarakan oleh target dengan orang lain, dan apabila tidak sempat mendengarkan secara live maka software ini akan merekam dan menyimpanya pada panel kontrol spyera.
 
 
-7. Highster
+## 7. Highster
+
 HighsterMobile perangkat pengambil data dari ponsel melalui jaringan internet, yang dimana kamu dapat menyadap data tanpa harus memegang ponsel target lagi setelah berhasil
 terpasang di ponsel target, Higster dapat digunakan pada dua ponsel yang sekarang lagi banyak digunakan di dunia Android & iPhone.
 
-8. PhoneSheriff
+## 8. PhoneSheriff
+
 Perangkat sadap hp yang disarankan untuk memantau perangkat gadget anak remaja, dan dapat mengawasi setiap data yang keluar dan masuk pada ponsel si anak, juga
 dapat menghindari setiap pergaulan diluar rumah dengan siapa anak berteman.
 
-9. OwnSpy
+## 9. OwnSpy
+
 App penyadap yang terakhir ini adalah ownspy yang mungkin paling sedikit dari segi penyadapan ponsel, juga terbatas untuk ketersediaan ponsel yang didukung.
 
 
 
 
-Sadap Pasangan Selingkuh ?
+### Sadap Pasangan Selingkuh ?
 
 Kenapa harus menyadap pasangan yang selingkuh dengan menggunakan daftar software diatas yang sudah saya jelaskan masing-masingnya, karna memang dengan app tersebut
 lebih effisien dengan melakukan pemantuan data komunkasi dari ponsel target anda yang bisa jadi mendapatkan beberapa data rahasia melalui hpnya, karna kasus 
@@ -69,7 +80,7 @@ itu yang sudah berstatus suami / istri ataupun yang msh berpacaran ? buktikan ke
 waspadaalaaah
 
 
-Buat para orang tua ?
+### Buat para orang tua ?
 
 Mengawasi pergualan anak remaja dengan memonitoring pada handphone si anak agar mendapatkan beberapa data komunkasi dari temannya. dengan melihat pesan dari hp
 anak bisa melihat apa saja yang sudah di bicarakan dengan teman dia, walaupun pesan tersebut sudah dihapus. dan ada fitur merekam aktivitas web browser, jadi bisa
